@@ -2,3 +2,4 @@ Nome: Aline
 Email: alinebarbosa@uni9.edu.br
 Curso: Análise de Desenvolvimento de Sistemas 
 Mês de Nascimento: Janeiro
+Disciplina: DevOps
